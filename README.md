@@ -16,7 +16,6 @@ AI Summarizer is a **smart web-based application** designed to:
 ## 🚀 Key Features
 
 | Feature                    | Description                                                                  |
-|----------------------------|---------------------------------------------------------------------------- -|
 | 📝 **Text Summarization**   | Paste or type any large text and get a short, meaningful summary            |
 | 📄 **Document Upload**      | Supports summarizing content from `.pdf`, `.docx`, `.txt` files             |
 | 🖼️ **Image to Text (OCR)**   | Upload images of notes or textbooks to convert them into editable summaries|
